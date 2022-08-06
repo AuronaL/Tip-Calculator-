@@ -25,7 +25,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/97556484/183238076-48eb3d6c-21bb-4831-b1bb-07e442f6f16a.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97556484/183238948-eb895d1e-a5a4-4a11-8534-9d5ae1858427.gif)
 
 ## Notes
 
