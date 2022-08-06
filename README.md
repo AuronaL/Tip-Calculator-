@@ -25,13 +25,7 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-
-https://user-images.githubusercontent.com/97556484/183237998-63ca4d14-0b88-4f87-9ede-66cb9f873ee3.mov
-
-< title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97556484/183238076-48eb3d6c-21bb-4831-b1bb-07e442f6f16a.gif)
 
 ## Notes
 
