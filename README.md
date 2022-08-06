@@ -26,7 +26,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![ezgif com-gif-maker](https://user-images.githubusercontent.com/97556484/183237732-a3f85a7f-925e-4dfa-965d-0902c121bc99.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='!https://user-images.githubusercontent.com/97556484/183237732-a3f85a7f-925e-4dfa-965d-0902c121bc99.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
